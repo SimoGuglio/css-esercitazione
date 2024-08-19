@@ -1,6 +1,6 @@
-.n1,.n3,.n5 {
+.n1,.n3 {
     background-color: #FFCCCB;
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #n2 {
@@ -10,4 +10,10 @@
 
 .n3 {
     font-size: 24px;
+}
+
+#n4{
+    background-color: hsl(109, 87%, 78%);
+    font-size: 24px;
+    font-weight: bold;
 }
