@@ -1,4 +1,11 @@
-.n1{
+.n1 {
     background-color: #FFCCCB;
+    font-family: Verdana, sans-serif;
+    
+}
+
+#n2 {
+    color: rgb(0, 38, 255);
+    font-size: 36px;
 
 }
